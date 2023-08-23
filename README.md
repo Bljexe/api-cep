@@ -24,7 +24,7 @@ git clone https://github.com/Bljexe/api-cep.git
 ```
 2. Instale as dependências:
 ```bash
-cd api_cep/
+cd api-cep/
 npm install
 ```
 
